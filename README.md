@@ -4,4 +4,4 @@ Get a full REST API with **zero coding** for front-end developers who need a qui
 `flask-json-server` is a python port of typicode's awesome [json-server](https://github.com/typicode/json-server).
 
 
-:warning: under :construction:
+:warning: This project is still under :construction:
